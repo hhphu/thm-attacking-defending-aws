@@ -1,5 +1,8 @@
 # AWS Basic Concepts
 
+<img width="1083" height="674" alt="Screenshot 2026-04-05 at 5 39 43 PM" src="https://github.com/user-attachments/assets/f3fb0094-ed78-4b57-b153-221bf9fa300a" />
+
+
 ## AWS Account
 - An AWS acocunt is a container for AWS resources
 - Assigned 12-digit unique Account ID.
