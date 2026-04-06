@@ -1,5 +1,8 @@
 # AWS: Cloud 101
 
+<img width="854" height="569" alt="Screenshot 2026-04-05 at 5 09 41 PM" src="https://github.com/user-attachments/assets/f12ea239-8a07-43e8-a508-71311c3943f2" />
+
+
 ## Introduction
 This room is intended to provide users who are not familiar with cloud technologies insight into some of the cloud's unique characteristics. Students in the room will learn about:
 - How current cloud capabilities evolved from humble beginnings at AWS and other early internet companies.
